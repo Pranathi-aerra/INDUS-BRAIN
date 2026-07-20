@@ -307,5 +307,5 @@ This project is built for the **AI for Industrial Knowledge Intelligence** hacka
 ---
 
 <p align="center">
-  Built with ❤️ by <strong>Koushik</strong> — Powered by Google Gemini & Supabase
+  Built with confidence.
 </p>
